@@ -8,13 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="SQLLIB">
-      <HintPath>./SQLLIB.dll</HintPath>
-    </Reference>
-    <Reference Include="EncryptingLib">
-      <HintPath>EncryptionLib.dll</HintPath>
-    </Reference>
+    <PackageReference Include="Bcrypt.Net" Version="0.1.0" />
   </ItemGroup>
+
 
 
 </Project>

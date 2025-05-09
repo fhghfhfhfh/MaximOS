@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MaximOS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fc9f61f47924dbcc3f62245670bd6bc131c4409")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d835c32a51fcc7aa5104f71482114a5cb06c5a7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MaximOS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MaximOS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
